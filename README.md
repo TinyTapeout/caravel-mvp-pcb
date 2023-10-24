@@ -29,7 +29,9 @@ A sample layout was also included, though routing was not completed as you're ce
 
 # TinyTapeout
 
-A TinyTapeout-specific versions are also included. The only real differences are in the symbol and net names used, as this helps to clarify things a lot.
+A TinyTapeout-specific versions are also included. If using along with the Caravel CPU, the only real differences are in the symbol and net names used, as this helps to clarify things a lot.
+
+However, you may also use it stand-alone, in which case a few components aren't required (e.g. flash memory) and a few additional ones are needed (mainly passives for pull-ups and config bootstraps).
 
 If you are implementing a PCB for a TinyTapeout chip, simply:
 
@@ -41,6 +43,7 @@ and the schematic ([TT version PDF here](doc/caravel-mvp-tinytapeout.pdf)) will 
 
 ![TT123 branch](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/doc/img/tt123-branch.jpg)
 
+along with the TT standalone config sheet.
 
 
 
@@ -76,4 +79,3 @@ This is meant as a template and starting point for your own projects and is all 
   Copyright (C) 2023 Pat Deegan, [Psychogenic Technologies](https://psychogenic.com)
 
 and released under the terms of the Apache License, version 2.0.  See the accompanying LICENSE file for details.
-
