@@ -37,7 +37,7 @@ If you are implementing a PCB for a TinyTapeout chip, simply:
   git checkout tt123
 ```
 
-and the schematic will be something like this instead.
+and the schematic ([TT version PDF here](doc/caravel-mvp-tinytapeout.pdf)) will include something like this instead:
 
 ![TT123 branch](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/doc/img/tt123-branch.jpg)
 
