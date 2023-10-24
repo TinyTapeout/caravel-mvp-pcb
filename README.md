@@ -11,7 +11,7 @@ The circuit includes all the critical (required) elements, basically:
   * flash memory, for code; and
   * the chip itself
 
-along with basic passive support (bypass caps...) [Full schematic PDF here](blob/main/doc/caravel-mvp.pdf)
+along with basic passive support (bypass caps...) [Full schematic PDF here](doc/caravel-mvp.pdf)
 
 
 It also has a few switches and connectors, as demonstrations.  These are enclosed in dotted boxes to highlight their optionality.
