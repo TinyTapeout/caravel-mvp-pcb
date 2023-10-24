@@ -16,7 +16,7 @@ along with basic passive support (bypass caps...)
 
 It also has a few switches and connectors, as demonstrations.  These are enclosed in dotted boxes to highlight their optionality.
 
-![Option Box](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/img/schem-optionbox.jpg)
+![Option Box](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/doc/img/schem-optionbox.jpg)
 
 
 The full schematic is available as a PDF in the doc/ directory.
@@ -24,7 +24,7 @@ The full schematic is available as a PDF in the doc/ directory.
 A sample layout was also included, though routing was not completed as you're certainly going to want to change components and floorplan around for your custom boards.
 
 
-![PCB Floorplan](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/img/caravel-mvp-floorplan-sample.jpg)
+![PCB Floorplan](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/doc/img/caravel-mvp-floorplan-sample.jpg)
 
 
 # TinyTapeout
@@ -39,7 +39,7 @@ If you are implementing a PCB for a TinyTapeout chip, simply:
 
 and the schematic will be something like this instead.
 
-![TT123 branch](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/img/tt123-branch.jpg)
+![TT123 branch](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/doc/img/tt123-branch.jpg)
 
 
 
