@@ -3776,7 +3776,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b2b0f12e-a41b-41c6-811b-a9da071e7b09)
   )
-  (text "Sample I/O headers give access\nto all gpio pins from mprj_io[7] \nto mprj_io[37], on either the PMOD\nor the 2x18.  Modify as required."
+  (text "Sample I/O headers give access\nto all the TT-specific I/O including\ninputs, output, active project select\nand scan chain/slow clock control.\n"
     (at 238.76 121.92 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid bdda21e9-df90-4aa2-81f2-54e8f6c5a559)
@@ -4007,7 +4007,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c091d5fe-ee9d-46a6-84dc-d5b5d6190368)
   )
-  (label "out6" (at 264.16 48.26 0) (fields_autoplaced)
+  (label "out7" (at 264.16 48.26 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid c3e62cf9-21af-43a5-a233-791fae9ca553)
   )
