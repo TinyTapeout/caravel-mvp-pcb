@@ -514,6 +514,10 @@
     [
       "f16a8f72-c85c-4194-9580-d5ee14eb71ec",
       "Power_Regulation"
+    ],
+    [
+      "a9998a82-633a-4fce-9404-05b48ed9e068",
+      "TT SA Config"
     ]
   ],
   "text_variables": {}
