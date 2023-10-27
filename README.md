@@ -27,6 +27,15 @@ A sample layout was also included, though routing was not completed as you're ce
 ![PCB Floorplan](https://raw.githubusercontent.com/psychogenic/caravel-mvp/main/doc/img/caravel-mvp-floorplan-sample.jpg)
 
 
+# Footprints and Symbols
+
+Useful symbols and footprints are used here and elsewhere, included as a submodule.
+
+```
+  git submodule update --init --recursive
+```
+will actually brings these in to your local fs.
+
 # TinyTapeout
 
 A TinyTapeout-specific versions are also included. If using along with the Caravel CPU, the only real differences are in the symbol and net names used, as this helps to clarify things a lot.
